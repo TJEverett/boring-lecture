@@ -1,0 +1,14 @@
+h2.intro{
+  color: firebrick;
+  font-size: 300%;
+}
+
+p.intro{
+  font-size: 125%;
+  width: 75%;
+}
+
+img.intro{
+  width: 600px;
+  height: 414px;
+}
