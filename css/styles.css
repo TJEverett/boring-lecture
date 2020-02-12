@@ -1,14 +1,14 @@
-h2.intro{
+div.intro h2{
   color: firebrick;
   font-size: 300%;
 }
 
-p.intro{
+div.intro p{
   font-size: 125%;
   width: 75%;
 }
 
-img.intro{
+div.intro img{
   width: 600px;
   height: 414px;
 }
